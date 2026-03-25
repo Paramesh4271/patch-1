@@ -1,0 +1,93 @@
+ONPREM:
+========
+1. INFRA (CAPITAL INVESTMENT) HIGH   (70-80% TIME infra ,,, 20-30 time)
+
+2. AVAILABILTY APP LESS 
+
+3. LATENCY HIGH
+
+4. SECURITY LESS
+
+5. END TO END (AUTOMATION)
+
+
+
+INTRODUCTION CLOUD
+===================
+AWS
+
+AZURE
+
+GCP
+
+IBM 
+
+ORACLE
+
+VMWARE
+
+OPENSHIFT
+
+ALIBABA ------- etc
+
+AWS:
+====
+PAY AS YOU GO
+
+pmart ( 80% time business ,,, 20% infra)
+
+IFRA:
+=====
+REGION: Geographical (overview)
+======
+
+AVAILABILITY ZONES: physical entity (datacenters)
+===================
+
+two data centers in a single region
+
+
+ELASTICITY:
+===========
+
+SCALEUP   ---- >
+SCALEDOWN ----  >
+
+AWS ACCOUNT CREATION:
+=====================
+
+aws.amazon.com
+
+1. root user mail, name , password
+
+2. personal details 
+
+3. payment (2 rs) credit/debit (domestic, international, e-commerce)
+
+4. pancard verification
+
+5. mobile number  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
